@@ -146,7 +146,13 @@ I build web products with a strong focus on clean interfaces, maintainable code,
 </div>
 
 <div width="33%" align="center">
-  <img src="https://img.shields.io/badge/AXOMATIC-020617?style=for-the-badge&logo=rocket&logoColor=38BDF8&labelColor=0F172A" />
+<br />
+  <a href="https://axomatic.com.mx/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-axomatic.com.mx-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111827" />
+  </a>
+  <!-- <a href="https://axomatic.com.mx/" target="_blank">
+    <img src="https://img.shields.io/badge/AXOMATIC-020617?style=for-the-badge&logo=rocket&logoColor=38BDF8&labelColor=0F172A" />
+  </a> -->
   <br /><br />
   Digital agency focused on web development, automation, business websites and custom software.
 </div>
@@ -160,11 +166,6 @@ I build web products with a strong focus on clean interfaces, maintainable code,
 ## GitHub Stats
 
 </div>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RodeloDev19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E5E7EB" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodeloDev19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E5E7EB" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RodeloDev19&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE" />
@@ -184,7 +185,7 @@ I build web products with a strong focus on clean interfaces, maintainable code,
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+better+web+experiences;Improving+frontend+architecture;Designing+clean+and+minimal+interfaces;Deploying+real+products+to+production" />
 </p>
 
-<br />
+
 
 ---
 
