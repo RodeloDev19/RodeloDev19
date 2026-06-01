@@ -28,38 +28,6 @@
 
 ---
 
-<br />
-
-<div align="center">
-
-## `whoami`
-
-</div>
-
-```ts
-const angel = {
-  role: "Fullstack Developer",
-  focus: [
-    "Web Apps",
-    "Landing Pages",
-    "Dashboards",
-    "APIs",
-    "Deployments",
-  ],
-  stack: {
-    frontend: ["Next.js", "React", "Angular", "TypeScript"],
-    backend: ["Node.js", "Express", "Prisma", "Django REST"],
-    databases: ["PostgreSQL", "MySQL", "MongoDB", "SQL Server"],
-    devops: ["Docker", "Nginx", "Linux", "CI/CD"],
-  },
-  mindset: "Clean code, strong UI, scalable architecture.",
-};
-```
-
-<br />
-
----
-
 <div align="center">
 
 ## About Me
@@ -68,11 +36,11 @@ const angel = {
 
 I build web products with a strong focus on clean interfaces, maintainable code, and real production deployment.
 
-- Fullstack developer focused on modern web platforms.
+- Fullstack developer focused on modern UX/UI web platforms.
 - I work with frontend, backend, databases, and server deployment.
 - I like turning business ideas into functional, polished digital products.
 - I care about UX/UI, performance, SEO, architecture, and automation.
-- Currently building web solutions through **AXOMATIC**.
+- Currently building web solutions through ***AXOMATIC***.
 
 <br />
 
